@@ -8,6 +8,13 @@ by [Deep Teaching Solutions](https://www.mooc-list.com/university-entity/deep-te
 <br/>
 <br/>
 
+I take this course just out of ceruosity, I found there is a synergistic relationship between Neurosience and Artficial Intilligance (AI).
+
+AI researchers find that neuroscince as a useful guide in thier research for solutions to AI, also they used it as a validation method for what ideas tat they are working on.
+
+As Matt Botvinick (Director of Neuroscience Research, DeepMind) once said:
+> It would have been silly for people trying to solve flight, to completley ignore birds. And that's I think what we would be doing inAI research if we didn't attend to neuroscience.
+
 ## Preface
 
 Going out for ceruosity, I find researchers when they try to solve a problem, the first things
