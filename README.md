@@ -3,9 +3,10 @@
 by [Deep Teaching Solutions](https://www.mooc-list.com/university-entity/deep-teaching-solutions)
 <br/>
 <br/>
-<br/>
 
 > **Note:** This repository contains a summary and personal notes of [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) Course, instructors by [Barbara Oakley](https://barbaraoakley.com/) and [Dr. Terrence Sejnowski](https://www.salk.edu/scientist/terrence-sejnowski/).
+<br/>
+<br/>
 
 ## Preface
 
