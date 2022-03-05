@@ -18,6 +18,7 @@ As [Matt Botvinick](https://hai.stanford.edu/people/matthew-botvinick) (Director
 
 ```bash
 "It would have been silly for people trying to solve flight, to completley ignore birds,
+
 And that's I think what we would be doing in AI research if we didn't attend to neuroscience."
 ```
 
