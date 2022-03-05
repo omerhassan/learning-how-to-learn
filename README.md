@@ -2,7 +2,7 @@
 
 by [Deep Teaching Solutions](https://www.mooc-list.com/university-entity/deep-teaching-solutions)
 
-This repository contains a summary and personal notes of [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) Course, instructors by [Barbara Oakley](https://barbaraoakley.com/) and [Dr. Terrence Sejnowski](https://www.salk.edu/scientist/terrence-sejnowski/).
+> **Note:** This repository contains a summary and personal notes of [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) Course, instructors by [Barbara Oakley](https://barbaraoakley.com/) and [Dr. Terrence Sejnowski](https://www.salk.edu/scientist/terrence-sejnowski/).
 
 ## Preface
 
@@ -14,8 +14,8 @@ For Ex. when they want to fly, they didn't trying to find a solution without und
 birds can fly, even if the new solution can be a different from what they obsarive from the
 natural.
 
-So, in the same way we had it in AI/ML, researchers they try to solve ***how we can learn?***
-question, then the first thing that we want to understand how it works is our ***Brain***.
+So, in the same way we had it in AI/ML, researchers they try to solve **how we can learn?**
+question, then the first thing that we want to understand how it works is our **Brain**.
 
 And Neuroscince and AI they can help each other to go beyound far away.
 
