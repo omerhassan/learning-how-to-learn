@@ -16,7 +16,7 @@ AI researchers find that neuroscince as a useful guide in thier research for sol
 
 As [Matt Botvinick](https://hai.stanford.edu/people/matthew-botvinick) (Director of Neuroscience Research, DeepMind) once said:
 
-```"It would have been silly for people trying to solve flight, to completley ignore birds. 
+```"It would have been silly for people trying to solve flight, to completley ignore birds.
 
 And that's I think what we would be doing in AI research if we didn't attend to neuroscience."
 ```
