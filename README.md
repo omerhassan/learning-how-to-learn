@@ -1,6 +1,6 @@
 # Learning How to Learn: Powerful mental tools
 
-<div align="right">by [Deep Teaching Solutions](https://www.mooc-list.com/university-entity/deep-teaching-solutions).</div>
+<div align="right">by <a href="https://www.mooc-list.com/university-entity/deep-teaching-solutions">Deep Teaching Solutions</a></div>
 
 by [Deep Teaching Solutions](https://www.mooc-list.com/university-entity/deep-teaching-solutions).
 
