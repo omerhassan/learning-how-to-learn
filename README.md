@@ -40,6 +40,9 @@ pass
 
 ```
 
+<br/>
+<br/>
+
 ## Week 2: Chunking
 
 _[Here's](google.com) The `slides` and a pdf of the `questions` and `answers` found in the videos_
