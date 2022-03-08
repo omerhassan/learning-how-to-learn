@@ -29,31 +29,29 @@ question, then the first thing that we want to understand how it works is our **
 
 ## Week 1: What is Learning
 
-_A pdf of the questions and answers found in the videos_
+_[Here's] The `slides` and a pdf of the `questions` and `answers` found in the videos_
 
 ``` python
 
-Pass
+pass
 
 ```
 
 ## Week 2: Chunking
 
-_A pdf of the questions and answers found in the videos_
+_[Here's] The `slides` and a pdf of the `questions` and `answers` found in the videos_
 
-### What we'll learn in this module
+> - `Chunks` are `compact packages` of information that your mind can easily access.
+> - How you can form a chunk? how you can use it?
+> - Explore `illusions of competence` in learning.
+> - `Overlearning` and `Interleaving`.
 
-- `Chunks` are `compact packages` of information that your mind can easily access.
-- How you can form a chunk? how you can use it?
-- Explore `illusions of competence` in learning.
-- `Overlearning` and `Interleaving`.
+### Chunking
 
-### 2.1 Chunking
+#### What is a Chunk?
 
-#### 2.1.1 What is a Chunk?
-
-- Is the mental leap that helps you unite bits of information together through meaning.
-- This will lets the chunk easier to remember,
-- Helps to fit the chunks into the larger PICs.
-- Chunking helps your brain run more efficiently. Once you chunk an idea, a concept, or an action, you
-don't need to remember all the little underlying details.
+- Is the `mental leap` that helps you `unite bits` of information together through meaning.
+- This will lets the chunk `easier to remember`.
+- Helps to `fit` the chunks into the `larger PICs`.
+- Chunking helps your brain run more `efficiently`. Once you chunk an idea, a concept, or an action, you
+`don't need` to remember all the little underlying details.
