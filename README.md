@@ -47,10 +47,12 @@ pass
 
 _[Here's](google.com) The `slides` and a pdf of the `questions` and `answers` found in the videos_
 
-> - `Chunks` are `compact packages` of information that your mind can easily access.
-> - How you can form a chunk? how you can use it?
-> - Explore `illusions of competence` in learning.
-> - `Overlearning` and `Interleaving`.
+### Introduction
+
+- `Chunks` are `compact packages` of information that your mind can easily access.
+- How you can form a chunk? how you can use it?
+- Explore `illusions of competence` in learning.
+- `Overlearning` and `Interleaving`.
 
 ### Chunking
 
