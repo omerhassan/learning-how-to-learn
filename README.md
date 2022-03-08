@@ -63,3 +63,32 @@ _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` fo
 - Helps to `fit` the chunks into the `larger PICs`.
 - Chunking helps your brain run more `efficiently`. Once you chunk an idea, a concept, or an action, you
 `don't need` to remember all the little underlying details.
+
+<br/>
+<br/>
+
+## Week 3
+
+_[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
+
+``` python
+
+pass
+
+```
+
+<br/>
+<br/>
+
+## Week 4
+
+_[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
+
+``` python
+
+pass
+
+```
+
+<br/>
+<br/>
