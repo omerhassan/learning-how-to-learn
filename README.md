@@ -29,7 +29,7 @@ question, then the first thing that we want to understand how it works is our **
 
 ## Week 1: What is Learning
 
-_[Here's] The `slides` and a pdf of the `questions` and `answers` found in the videos_
+_[Here's](google.com) The `slides` and a pdf of the `questions` and `answers` found in the videos_
 
 ``` python
 
@@ -39,7 +39,7 @@ pass
 
 ## Week 2: Chunking
 
-_[Here's] The `slides` and a pdf of the `questions` and `answers` found in the videos_
+_[Here's](google.com) The `slides` and a pdf of the `questions` and `answers` found in the videos_
 
 > - `Chunks` are `compact packages` of information that your mind can easily access.
 > - How you can form a chunk? how you can use it?
