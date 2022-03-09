@@ -25,8 +25,8 @@ And that's I think what we would be doing in AI research if we didn't attend to 
 
 <br/>
 
-- So, in the same way we had it in AI/ML, researchers they try to solve **how we can learn?**
-question, then the first thing that we want to understand how it works is our **Brain**, and this course will help us to understand the learning process in a good maner.
+- So, in the same way we had it in AI/ML, researchers they try to solve `how we can learn?`
+question, then the first thing that we want to understand how it works is our `Brain`, and this course will help us to understand the learning process in a good maner.
 
 <br/>
 <br/>
