@@ -30,6 +30,7 @@ question, then the first thing that we want to understand how it works is our **
 <br/>
 <br/>
 
+<hr>
 ## Week 1: What is Learning
 
 _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
@@ -43,13 +44,14 @@ pass
 <br/>
 <br/>
 
+<hr>
 ## Week 2: Chunking
 
 _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
 
 ### Introduction
 
----
+<hr>
 
 - `Chunks` are `compact packages` of information that your mind can easily access.
 - How you can form a chunk? how you can use it?
@@ -57,6 +59,8 @@ _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` fo
 - `Overlearning` and `Interleaving`.
 
 ### Chunking
+
+<hr>
 
 #### What is a Chunk?
 
@@ -69,6 +73,7 @@ _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` fo
 <br/>
 <br/>
 
+<hr>
 ## Week 3
 
 _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
