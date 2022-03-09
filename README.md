@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-## What motivates me?!
+## What motivates me?
 
 - I taked this course just out of curiosity, I found there is a synergistic relationship between Neurosience and Artficial Intilligance (AI).
 
@@ -17,8 +17,9 @@
 
 - As [Matt Botvinick](https://hai.stanford.edu/people/matthew-botvinick) (Director of Neuroscience Research, DeepMind) once said:
 
+``` bash
 `It would have been silly for people trying to solve flight, to completley ignore birds,And that's I think what we would be doing in AI research if we didn't attend to neuroscience.`
-
+```
 <br/>
 
 - So, in the same way we had it in AI/ML, researchers they try to solve `how we can learn?`
