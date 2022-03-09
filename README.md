@@ -9,13 +9,13 @@
 <br/>
 <br/>
 
-## Preface
+## What motivates me?!
 
-I take this course just out of curiosity, I found there is a synergistic relationship between Neurosience and Artficial Intilligance (AI).
+- I taked this course just out of curiosity, I found there is a synergistic relationship between Neurosience and Artficial Intilligance (AI).
 
-AI researchers find that neuroscince as a useful guide in thier research for solutions to AI, also they used it as a validation method for what ideas that they are working on.
+- AI researchers find that neuroscince as a useful guide in thier research for solutions to AI, also they used it as a validation method for what ideas that they are working on.
 
-As [Matt Botvinick](https://hai.stanford.edu/people/matthew-botvinick) (Director of Neuroscience Research, DeepMind) once said:
+- As [Matt Botvinick](https://hai.stanford.edu/people/matthew-botvinick) (Director of Neuroscience Research, DeepMind) once said:
 
 ```bash
 "It would have been silly for people trying to solve flight, to completley ignore birds,
@@ -25,7 +25,7 @@ And that's I think what we would be doing in AI research if we didn't attend to 
 
 <br/>
 
-So, in the same way we had it in AI/ML, researchers they try to solve **how we can learn?**
+- So, in the same way we had it in AI/ML, researchers they try to solve **how we can learn?**
 question, then the first thing that we want to understand how it works is our **Brain**, and this course will help us to understand the learning process in a good maner.
 
 <br/>
