@@ -1,6 +1,7 @@
-# Learning How to Learn: Powerful mental tools
+<h1 align="center"> Learning How to Learn</h1>
+<h3 align="cnter">Powerful mental tools to help you master tough subjects</h3>
+<h5 align="center">by [Deep Teaching Solutions](https://www.mooc-list.com/university-entity/deep-teaching-solutions)</h5>
 
-by [Deep Teaching Solutions](https://www.mooc-list.com/university-entity/deep-teaching-solutions)
 <br/>
 <br/>
 
@@ -37,6 +38,7 @@ question, then the first thing that we want to understand how it works is our **
 _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
 
 ``` python
+Delta compression using up to 4 threads.
 
 pass
 
