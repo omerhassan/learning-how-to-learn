@@ -68,6 +68,21 @@ _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` fo
 - Helps to `fit` the chunks into the `larger PICs`.
 - Chunking helps your brain run more `efficiently`. Once you chunk an idea, a concept, or an action, you `don't need` to remember all the little underlying details.
 
+#### How to Form a Chunk?
+
+- The best `chunks` are the ones that are so well `ingraid` that you don't even have to consciously think about
+connecting the neural pattern together. That actually is the point of making complex ideas, movments or reactions into a single chunk, we can see this in language learning.
+- The `first` step on chunking is simpley to `foucs your undivided attention` on the information you want to
+chunk.
+- The `second` step in chunking is to `understand the basic idea` you're trying to chunk.
+- In math and science, closing the book and testing yourself on whether you yourself can solve the problem you think you understand will speed up your learning at this stage. You often relaize the first time you actually understand something is when you actually do it yourself.
+- The `third` step to chunking is `gaining context`, so you can know when to use this chunk.
+- Learning take place into ways
+  - Bottom-up chunking
+    - Process where practice and repetation can help you both build and strengthen each chunk, so you caneasily access it whenever you need to.
+  - Top-down big picture
+    - Process that allows you to see what you're learning and where it fits it.
+
 <br/>
 <br/>
 
