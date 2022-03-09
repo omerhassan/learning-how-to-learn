@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
- This repository contains a summary and personal notes of [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) Course. Instructored by [Barbara Oakley](https://barbaraoakley.com/) and [Dr. Terrence Sejnowski](https://www.salk.edu/scientist/terrence-sejnowski/).
+ This repository contains a summary and personal notes of [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) course. Instructored by [Barbara Oakley](https://barbaraoakley.com/) and [Dr. Terrence Sejnowski](https://www.salk.edu/scientist/terrence-sejnowski/).
 <br/>
 <br/>
 
