@@ -31,6 +31,7 @@ question, then the first thing that we want to understand how it works is our **
 <br/>
 
 <hr>
+
 ## Week 1: What is Learning
 
 _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
