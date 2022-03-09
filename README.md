@@ -45,6 +45,7 @@ pass
 <br/>
 
 <hr>
+
 ## Week 2: Chunking
 
 _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
@@ -74,6 +75,7 @@ _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` fo
 <br/>
 
 <hr>
+
 ## Week 3
 
 _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
