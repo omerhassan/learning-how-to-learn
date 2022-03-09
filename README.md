@@ -55,8 +55,6 @@ _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` fo
 
 ### Introduction
 
-<hr>
-
 - `Chunks` are `compact packages` of information that your mind can easily access.
 - How you can form a chunk? how you can use it?
 - Explore `illusions of competence` in learning.
@@ -64,15 +62,12 @@ _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` fo
 
 ### Chunking
 
-<hr>
-
 #### What is a Chunk?
 
 - Is the `mental leap` that helps you `unite bits` of information together through meaning.
 - This will lets the chunk `easier to remember`.
 - Helps to `fit` the chunks into the `larger PICs`.
-- Chunking helps your brain run more `efficiently`. Once you chunk an idea, a concept, or an action, you
-`don't need` to remember all the little underlying details.
+- Chunking helps your brain run more `efficiently`. Once you chunk an idea, a concept, or an action, you `don't need` to remember all the little underlying details.
 
 <br/>
 <br/>
@@ -92,6 +87,8 @@ pass
 <br/>
 <br/>
 
+<hr>
+
 ## Week 4
 
 _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
@@ -104,3 +101,5 @@ pass
 
 <br/>
 <br/>
+
+<hr>
