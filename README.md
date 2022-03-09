@@ -49,6 +49,8 @@ _[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` fo
 
 ### Introduction
 
+---
+
 - `Chunks` are `compact packages` of information that your mind can easily access.
 - How you can form a chunk? how you can use it?
 - Explore `illusions of competence` in learning.
