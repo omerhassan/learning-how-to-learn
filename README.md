@@ -120,16 +120,14 @@ chunk.
 - The bigger and more well practiced chunked mental library - whatever the subject - the more easily you'll be able to solve problems and figure out solutions.
 - Chunks can also help to understanding new concept. this idea is called `Transfere`.
 - There are two ways to figure something out to solve problems.
-  <ol type="i">
-    <li>Through seqential step by step reasoning.</li>
-    <li>More holistic intution solution</li>
-  </ol>
-   > Sequential &rarr; focused mode.
-   > Intution &rarr; diffuse mode linking of several semingly different focused mode thoughts.
+  - Through seqential step by step reasoning.
+    - `Sequeytial` &rarr; focused mode.
+  - More holistic intution solution
+    - `Intution` &rarr; diffuse mode linking of several semingly different focused mode thoughts.
 - Most difficult problems and concepts are grasped through intution.
 - `Law of Serending`, when things doesn't go the way think. and concepts going tough.
-    > Lady luck favors the one who tries.
-- Just focus on whatever sectionn you're studing and thinfs will move on.
+  - `Lady luck favors the one who tries`.
+- Just focus on whatever sectionn you're studing and things will move on.
 
 <br/>
 <br/>
