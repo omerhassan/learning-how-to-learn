@@ -83,6 +83,26 @@ chunk.
   - Top-down big picture
     - Process that allows you to see what you're learning and where it fits it.
 
+#### Illusions of Competence
+
+- Some essential ideas in getting your learning on the track:
+  <ol type="i">
+    <li>The importance of recall.</li>
+    <li>Illusions of competence in learning.</li>
+    <li>Doing mini test.</li>
+    <li>The value of making mistakes.</li>
+  </ol>
+- `Recalling` what you read is much productive than reread. according to the psychologist [Jeffrey Karpike](https://www.purdue.edu/hhs/psy/directory/faculty/Karpicke_Jeffrey.html).
+- And also recall is a much better than drawing a `concepts map`.
+- `Highlighting and underlining` must be done very carefully. otherwise it can not only be ineffective, but also misleading &rarr; `illusions of competence`.
+- If you do markup te text, try to llok for main ideas before making any marks.
+- Try to keep your underlining or higlighting to a `minimum` one sentence or less per paragraph.
+- Words or notes in margin that synthesize key concepts are a very good idea.
+- Spending alotof time with the material, `doesn't` gurantee you'll actually learn it.
+- A super helpful way to make sure you're learning and not fooling yourself with illusions of competence, is to test your self on whatever you're learning.
+- Recall is actually doing test.
+- Recalling material `outside` your usual place of study is very helpful.
+
 <br/>
 <br/>
 
