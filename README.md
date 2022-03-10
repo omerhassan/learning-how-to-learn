@@ -129,6 +129,22 @@ chunk.
   - `Lady luck favors the one who tries`.
 - Just focus on whatever sectionn you're studing and things will move on.
 
+#### Overlearning, Choking, Einstellung, Chunking, and Interleaving
+
+- Continuing to study or practice after you're mastered what you can in the session is called &rarr; `Overlearning`.
+- If you choke on tests or public speaking, overlearning can be especially valueble.
+- Research has shown repetitive overlearning during a single session, it can be a waste of valueble learning time.
+- Susequant study session is the perfect way.
+- Repeating something you're alrady know, is, face it, easy. it can also bring the illusion of competence that you're mastered the full range of material.
+- Foucsing on the more difficult material is called &rarr; `deliberate practice`.
+- All this is also releated to concept know as &rarr; `Einstellung`.
+- Enistellung &rarr; mindset.
+- `Interleaving` &rarr; practicing jumping back and forth between problems or situations that require different techniques or stratiges.
+- Do what you can do to mixup you're learning.
+- Phhilosopher of science [Thomas Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/), discovered that most paradigm shifts in science are brought about either young people or pepole who were originally trained in a diff discipline.
+- The old saying that:
+  - `Science progress one funeral at a time as people entrenched inthe old ways of looking at things die off.`
+  
 <br/>
 <br/>
 
