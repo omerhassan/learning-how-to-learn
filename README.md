@@ -50,7 +50,7 @@ pass
 
 ## Week 2: Chunking
 
-_[Here's](google.com) the `slides` and a pdf of the `questions` and `answers` found in the videos_
+_[Here's](https://github.com/omerhassan/learning-how-to-learn/tree/main/Week%202) the `slides` and a pdf of the `questions` and `answers` found in the videos_
 
 ### Introduction
 
@@ -144,7 +144,7 @@ chunk.
 - Phhilosopher of science [Thomas Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/), discovered that most paradigm shifts in science are brought about either young people or pepole who were originally trained in a diff discipline.
 - The old saying that:
   - `Science progress one funeral at a time as people entrenched inthe old ways of looking at things die off.`
-  
+
 <br/>
 <br/>
 
