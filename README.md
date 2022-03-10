@@ -103,6 +103,34 @@ chunk.
 - Recall is actually doing test.
 - Recalling material `outside` your usual place of study is very helpful.
 
+### Seeing The Bigger Picture
+
+#### What Motivates You?
+
+- `Neuromodulators` are chemicals that influance how a neuron responds to other neurons &rarr; has a synthesize relationship with the motivations for learning.
+  - `Acetylochoine` &rarr; importance for focused learning when you're paying close attention.
+  - `Dopamine` &rarr; controls reward learning.
+  - `Serotonin` &rarr; effects your social life.
+
+#### The Value of a Library of Chunks
+
+- `Compaction`, `Transfere`, `Creativity`, and `The law of Serendipity`.
+- The ability to combine chunks in new and original ways underlies alotof historical innovation.
+- Enhance the knowledge and gain expertise &rarr; build number of chunks + piece it together in new and creative ways.
+- The bigger and more well practiced chunked mental library - whatever the subject - the more easily you'll be able to solve problems and figure out solutions.
+- Chunks can also help to understanding new concept. this idea is called `Transfere`.
+- There are two ways to figure something out to solve problems.
+  <ol type="i">
+    <li>Through seqential step by step reasoning.</li>
+    <li>More holistic intution solution</li>
+  </ol>
+   >> Sequential &rarr; focused mode.
+   >> Intution &rarr; diffuse mode linking of several semingly different focused mode thoughts.
+- Most difficult problems and concepts are grasped through intution.
+- `Law of Serending`, when things doesn't go the way think. and concepts going tough.
+    >> Lady luck favors the one who tries.
+- Just focus on whatever sectionn you're studing and thinfs will move on.
+
 <br/>
 <br/>
 
