@@ -124,11 +124,11 @@ chunk.
     <li>Through seqential step by step reasoning.</li>
     <li>More holistic intution solution</li>
   </ol>
-   >> Sequential &rarr; focused mode.
-   >> Intution &rarr; diffuse mode linking of several semingly different focused mode thoughts.
+   > Sequential &rarr; focused mode.
+   > Intution &rarr; diffuse mode linking of several semingly different focused mode thoughts.
 - Most difficult problems and concepts are grasped through intution.
 - `Law of Serending`, when things doesn't go the way think. and concepts going tough.
-    >> Lady luck favors the one who tries.
+    > Lady luck favors the one who tries.
 - Just focus on whatever sectionn you're studing and thinfs will move on.
 
 <br/>
